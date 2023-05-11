@@ -1,4 +1,4 @@
-# Welcome to Wrikfied, the platform with improves your productivity by removing the noise to make Wrike simple.
+# Welcome to Wrikfied
 
 Improve your productivity and task turnaround, by removing the noise to make Wrike simple. Built for design and production individuals and teams who use Wrike.
 
