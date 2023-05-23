@@ -10,6 +10,7 @@ Improve your productivity and task turnaround, by removing the noise to make Wri
 - [ ] Style comment threads.
 - [ ] Subscription login cross check function (null, trialing, active, cancelled).
 - [ ] Enable Wrike API token refresh (session expires).
+- [ ] Finish off Feedback form via Typeform.
 
 - [ ] 10% of Wrikified profits will be donated to GOSH (https://www.gosh.org/get-involved/corporate-fundraising/ways-to-support-us/).
 
